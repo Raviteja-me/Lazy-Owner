@@ -1,20 +1,8 @@
 @tailwind base;
-@tailwind components;
-@tailwind utilities;
+    @tailwind components;
+    @tailwind utilities;
 
-@layer base {
-  .dark {
-    color-scheme: dark;
-  }
-  .font-manrope {
-    font-family: 'Manrope', sans-serif;
-  }
-}
-
-@layer components {
-  .transition-all {
-    transition-property: all;
-    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-    transition-duration: 150ms;
-  }
-}
+    /* Optional: Custom CSS for more specific styling */
+    body {
+      @apply bg-gray-900 text-white;
+    }
