@@ -1,0 +1,26 @@
+{
+  "listings": [
+    {
+      "type": "saas-products",
+      "title": "AI Resume Builder Pro",
+      "description": "AI Resume Builder Pro is a smart web application that helps job seekers create professional resumes using AI. Features include: 1) AI-powered content suggestions 2) ATS-friendly templates 3) Real-time preview 4) Multiple format export (PDF, DOCX) 5) Keyword optimization for job descriptions 6) Cover letter generator.",
+      "price": 2999,
+      "imageUrls": ["https://example.com/resume-builder1.jpg"],
+      "platform": ["Web"],
+      "demoUrl": "https://airesumepro.demo.com",
+      "transferTime": "48 hours",
+      "status": "active"
+    },
+    {
+      "type": "mobile-apps",
+      "title": "FitTrack Pro",
+      "description": "FitTrack Pro is a comprehensive fitness tracking application that combines workout planning, nutrition tracking, and progress monitoring. Features: 1) Custom workout builder 2) Meal planning with calorie counter 3) Progress photos and measurements 4) Integration with fitness wearables 5) Social community features.",
+      "price": 4999,
+      "imageUrls": ["https://example.com/fittrack1.jpg"],
+      "platform": ["Android", "iOS"],
+      "demoUrl": "https://fittrackpro.demo.com/preview",
+      "transferTime": "72 hours",
+      "status": "active"
+    }
+  ]
+}
