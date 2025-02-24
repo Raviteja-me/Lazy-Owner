@@ -6,6 +6,9 @@
   .dark {
     color-scheme: dark;
   }
+  .font-manrope {
+    font-family: 'Manrope', sans-serif;
+  }
 }
 
 @layer components {
